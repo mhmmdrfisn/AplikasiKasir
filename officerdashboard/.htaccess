@@ -1,0 +1,2 @@
+ErrorDocument 404 /kasirinbro/error-pages/404.html
+ErrorDocument 500 /kasirinbro/error-pages/500.html
